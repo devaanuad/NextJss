@@ -6,7 +6,6 @@
     "porto-dev": "next dev",
     "porto-build": "next build",
     "porto-start": "next start",
-    "porto-export": "next export",
     "lint": "next lint"
   },
   "dependencies": {
